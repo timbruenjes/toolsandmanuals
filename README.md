@@ -13,6 +13,9 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
 Nice tools and Wikis for your IT Infrastructure
 
 ### Wikis
+| **Toolname** |  **Description**  | **Link** |
+|:-----|:-----|:-----|
+| Windows GPOS | My own list of ADMX Templates | https://winscp.net/eng/index.php |
 
 
 
@@ -23,6 +26,9 @@ Nice tools and Wikis for your IT Infrastructure
 | Notepad++ | Free Source Code and Text Editor | https://notepad-plus-plus.org/ |
 | NetTime | Timesync Tool for Windows, that also features redundatn configuration | http://timesynctool.com/ |
 | VMware Player | VMwares Virtualisiation solution for Level2 VMs | https://www.vmware.com/de/products/workstation-player.html |
+| Google Chrome | The original Chrome | https://www.google.com/intl/de_de/chrome/ |
+| Microsoft Edge | Micrsosfts Browser based on Chromium but with Microsoft Account insted of Google | https://www.microsoft.com/de-de/edge?form=MA13FJ |
+| Firefox | More privacy based Browser, but still as good as Chromium Based Brwosers | https://www.google.com/intl/de_de/chrome/ |
 
 ### Tools
 Tools that make the IT life smarter an easier

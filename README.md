@@ -21,7 +21,7 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
 
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| Design Saferules   | Visual design rules you can safely follow every time | https://anthonyhobday.com/sideprojects/saferules/ |
+| Transfonter   | Generate CSS @font-face Files by uploading .otf .ttf and more | https://transfonter.org/ |
 | Bootstrap   |  Build fast, responsive sites with Bootstrap  |  https://getbootstrap.com/ |
 | Material Design   | Google’s open-source design system |  https://m3.material.io/ |
 | Material Bootstrap   |  Material Design for Bootstrap v5 & v4 |   https://mdbootstrap.com/ |
@@ -38,6 +38,8 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
 | Material Bootstrap   |  Material Design for Bootstrap v5 & v4 |   https://mdbootstrap.com/ |
 | News Kit  | An open source design system built by News UK, for everyone |    https://www.newskit.co.uk/ |
 | BBC GEL  | The BBCs Designsystem | https://www.bbc.co.uk/gel |
+| Adobe Color | Genrate and Finde Colors | https://color.adobe.com/de/create/color-wheel |
+| Google Fonts | A big pool for Fonts and Icons you can use for you projects | - https://fonts.google.com/ - https://fonts.google.com/icons|
 
 ## Media
 

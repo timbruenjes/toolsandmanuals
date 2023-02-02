@@ -10,12 +10,21 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
   
 
 ## IT Infrastructure
+Nice tools and Wikis for your IT Infrastructure
+### Wikis
 
-| Toolname |  Description  | Link |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
+### Software
+
+### Tools
+
+### Dockers
+Management and Dokcer Container
+| **Toolname** |  **Description**  | **Link** |
+|:-----|:-----|:-----|
+| Portainer   | Simply mange Docker Containers and more. | https://www.portainer.io/ |
+| Grafana   |  Nice Dashboards with a lot of extension  |  https://grafana.com/ |
+| PiHole  | DNS Adblocker, even throug the name it also works on regul Docker enviroments |  https://pi-hole.net/ |
+| NGINX Proxy Manager   |  Simply put your services to the Web, even with SSL  |  https://nginxproxymanager.com/ |
 
 ## Web Development
 
@@ -72,3 +81,10 @@ Good Pictures mostly with CC0 License
 - [pexels](https://www.pexels.com/de-de/)
 - [pxhere](https://pxhere.com/de/)
 - [unsplash](https://unsplash.com/de)
+
+## Icon Librarys
+Great Icons, in some List Librarys you my need a license
+
+- [Iconfinder](https://www.iconfinder.com/)
+- [flaticon](https://www.flaticon.com/de/)
+- [fontawesome](https://fontawesome.com/icons)

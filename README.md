@@ -34,7 +34,7 @@ Tools that make the IT life smarter an easier
 
 
 ### Dockers
-Management and Dokcer Container
+Management and Docker Container
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | Portainer   | Simply mange Docker Containers and more. | https://www.portainer.io/ |

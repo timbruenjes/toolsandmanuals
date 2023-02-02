@@ -15,7 +15,7 @@ Nice tools and Wikis for your IT Infrastructure
 ### Wikis
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| Windows GPOS | My own list of ADMX Templates | https://winscp.net/eng/index.php |
+| Windows GPOS | My own list of ADMX Templates | https://github.com/timbruenjes/toolsandmanuals/blob/main/windows-gpos.md |
 
 
 

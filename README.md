@@ -1,6 +1,6 @@
 # Tools and Manuals
-This Repo contains Tools and Manuals for basically anything related to Media, IT-Infrastructure, Design, Web Development and more....
 
+This Repo contains Tools and Manuals for basically anything related to Media, IT-Infrastructure, Design, Web Development and more....
 
 - [Quicklinks](#Tools-and-Manuals)
   - [IT-Infrastructure](#IT-Infrastructure)
@@ -8,18 +8,18 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
   - [Design](#Design)
   - [Media](#Media)
   
-
 ## IT Infrastructure
+
 Nice tools and Wikis for your IT Infrastructure
 
 ### Wikis
+
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | Windows GPOS | My own list of ADMX Templates | https://github.com/timbruenjes/toolsandmanuals/blob/main/windows-gpos.md |
 
-
-
 ### Software
+
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | WinSCP | SCP, FTP an more in one Tool | https://winscp.net/eng/index.php |
@@ -31,6 +31,7 @@ Nice tools and Wikis for your IT Infrastructure
 | Firefox | More privacy based Browser, but still as good as Chromium Based Brwosers | https://www.google.com/intl/de_de/chrome/ |
 
 ### Tools
+
 Tools that make the IT life smarter an easier
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
@@ -38,9 +39,8 @@ Tools that make the IT life smarter an easier
 | ShareX | Screenshot, Screenvideo and more, but in smart | https://getsharex.com/ |
 | NetSetMan | Manage multiple Networking Configurations | https://www.netsetman.com/de/freeware |
 
-
-
 ### Dockers
+
 Management and Docker Container
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
@@ -49,8 +49,6 @@ Management and Docker Container
 | PiHole  | DNS Adblocker, even throug the name it also works on regul Docker enviroments |  https://pi-hole.net/ |
 | NGINX Proxy Manager   |  Simply put your services to the Web, even with SSL  |  https://nginxproxymanager.com/ |
 
-
-
 ## Web Development
 
 | **Toolname** |  **Description**  | **Link** |
@@ -58,7 +56,6 @@ Management and Docker Container
 | Transfonter   | Generate CSS @font-face Files by uploading .otf .ttf and more | https://transfonter.org/ |
 | Visual Studio Code   |  Free IDE from Micrososft  |  https://code.visualstudio.com/ |
 | JetBrains  | IDEs from JetBrains, more known synonyms PHPstorm or WEBstorm |  https://www.jetbrains.com/ |
-
 
 ## Design
 
@@ -83,7 +80,6 @@ Management and Docker Container
 | OBS   |  Video Braodcasting Plattform with many tools and features  |  https://obsproject.com/de/download |
 | Audacity   |  Free Audio Editor  |  https://www.audacityteam.org/ |
 
-
 ## Brand guidelines
 
 - [Twitter](https://about.twitter.com/en_us/company/brand-resources.html) - All brand ressources
@@ -99,6 +95,7 @@ Management and Docker Container
 - [Google Cloud Icons](https://cloud.google.com/icons/) - Cloud icons and architecture diagrams
 
 ## Stock Foto Librarys
+
 Good Pictures mostly with CC0 License
 
 - [pixabay](https://pixabay.com/de/)
@@ -107,6 +104,7 @@ Good Pictures mostly with CC0 License
 - [unsplash](https://unsplash.com/de)
 
 ## Icon Librarys
+
 Great Icons, in some List Librarys you my need a license
 
 - [Iconfinder](https://www.iconfinder.com/)

@@ -1,6 +1,14 @@
 # Tools and Manuals
 This Repo contains Tools and Manuals for basically anything related to Media, IT-Infrastructure, Design, Web Development and more....
 
+
+- [Quicklinks](#Tools-and-Manuals)
+  - [IT-Infrastructure](#IT-Infrastructure)
+  - [Web Development](#Web-Development)
+  - [Design](#Design)
+  - [Media](#Media)
+  
+
 ## IT Infrastructure
 
 | Toolname |  Description  | Link |

@@ -25,6 +25,8 @@ Tools that make the IT life smarter an easier
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | Ventoy | Making one big USB-Stick bootable to many ISOs | https://www.ventoy.net/en/index.html |
+| ShareX | Screenshot, Screenvideo an more, but in smart | https://getsharex.com/ |
+| NetSetMan | Manage multiple Networking Configurations | https://www.netsetman.com/de/freeware |
 
 
 

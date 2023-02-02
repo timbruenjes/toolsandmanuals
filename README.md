@@ -70,7 +70,7 @@ Management and Dokcer Container
 | Gimp   | Basically an fre Photshop | https://www.gimp.org/saferules/ |
 | Photomechanis   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
 | NDI Tools   |  Brings NDI to your Device  |  https://www.ndi.tv/tools/ |
-| OBS   |  Video Braodcastin Plattform with many tools and features  |  https://obsproject.com/de/download |
+| OBS   |  Video Braodcasting Plattform with many tools and features  |  https://obsproject.com/de/download |
 
 
 ## Brand guidelines

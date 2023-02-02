@@ -63,14 +63,14 @@ Management and Dokcer Container
 | Material Bootstrap   |  Material Design for Bootstrap v5 & v4 |   https://mdbootstrap.com/ |
 | News Kit  | An open source design system built by News UK, for everyone |    https://www.newskit.co.uk/ |
 | BBC GEL  | The BBCs Designsystem | https://www.bbc.co.uk/gel |
-| Adobe Color | Generate and Finde Colors | https://color.adobe.com/de/create/color-wheel |
+| Adobe Color | Generate and Find Colors | https://color.adobe.com/de/create/color-wheel |
 | Google Fonts | A big pool for Fonts and Icons you can use for you projects |  https://fonts.google.com/ //  https://fonts.google.com/icons|
 
 ## Media
 
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| Gimp   | Basically an fre Photshop | https://www.gimp.org/saferules/ |
+| Gimp   | Basically an free Photshop | https://www.gimp.org/saferules/ |
 | Photomechanics   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
 | NDI Tools   |  Brings NDI to your Device  |  https://www.ndi.tv/tools/ |
 | OBS   |  Video Braodcasting Plattform with many tools and features  |  https://obsproject.com/de/download |

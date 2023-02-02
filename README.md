@@ -29,7 +29,7 @@ Tools that make the IT life smarter an easier
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | Ventoy | Making one big USB-Stick bootable to many ISOs | https://www.ventoy.net/en/index.html |
-| ShareX | Screenshot, Screenvideo an more, but in smart | https://getsharex.com/ |
+| ShareX | Screenshot, Screenvideo and more, but in smart | https://getsharex.com/ |
 | NetSetMan | Manage multiple Networking Configurations | https://www.netsetman.com/de/freeware |
 
 
@@ -75,6 +75,7 @@ Management and Docker Container
 | Photomechanics   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
 | NDI Tools   |  Brings NDI to your Device  |  https://www.ndi.tv/tools/ |
 | OBS   |  Video Braodcasting Plattform with many tools and features  |  https://obsproject.com/de/download |
+| Audacity   |  Free Audio Editor  |  https://www.audacityteam.org/ |
 
 
 ## Brand guidelines

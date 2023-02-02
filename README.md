@@ -19,8 +19,9 @@ Nice tools and Wikis for your IT Infrastructure
 ### Software
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| WinSCP | SCP, FTP an more ub one Tool | https://winscp.net/eng/index.php |
-
+| WinSCP | SCP, FTP an more in one Tool | https://winscp.net/eng/index.php |
+| Notepad++ | Free Source Code and Text Editor | https://notepad-plus-plus.org/ |
+| NetTime | Timesync Tool for Windows, that also features redundatn configuration | http://timesynctool.com/
 
 ### Tools
 Tools that make the IT life smarter an easier

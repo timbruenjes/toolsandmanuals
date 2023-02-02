@@ -39,7 +39,7 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
 | News Kit  | An open source design system built by News UK, for everyone |    https://www.newskit.co.uk/ |
 | BBC GEL  | The BBCs Designsystem | https://www.bbc.co.uk/gel |
 | Adobe Color | Genrate and Finde Colors | https://color.adobe.com/de/create/color-wheel |
-| Google Fonts | A big pool for Fonts and Icons you can use for you projects | - https://fonts.google.com/ - https://fonts.google.com/icons|
+| Google Fonts | A big pool for Fonts and Icons you can use for you projects |  https://fonts.google.com/ //  https://fonts.google.com/icons|
 
 ## Media
 
@@ -67,3 +67,10 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
 - [Google Cloud Logos](https://cloud.google.com/press/) - Basic cloud logos (Alt: [Cloud Connect](https://www.cloudconnect.goog/))
 - [Google Cloud Icons](https://cloud.google.com/icons/) - Cloud icons and architecture diagrams
 
+## Stock Foto Librarys
+Good Pictures mostly with CC0 License
+
+- [pixabay](https://pixabay.com/de/)
+- [pexels](https://www.pexels.com/de-de/)
+- [pxhere](https://pxhere.com/de/)
+- [unsplash](https://unsplash.com/de)

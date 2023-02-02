@@ -71,7 +71,7 @@ Management and Dokcer Container
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
 | Gimp   | Basically an fre Photshop | https://www.gimp.org/saferules/ |
-| Photomechanis   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
+| Photomechanics   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
 | NDI Tools   |  Brings NDI to your Device  |  https://www.ndi.tv/tools/ |
 | OBS   |  Video Braodcasting Plattform with many tools and features  |  https://obsproject.com/de/download |
 

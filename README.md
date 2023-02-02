@@ -67,12 +67,10 @@ Management and Dokcer Container
 
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| Design Saferules   | Visual design rules you can safely follow every time | https://anthonyhobday.com/sideprojects/saferules/ |
-| Bootstrap   |  Build fast, responsive sites with Bootstrap  |  https://getbootstrap.com/ |
-| Material Design   | Google’s open-source design system |  https://m3.material.io/ |
-| Material Bootstrap   |  Material Design for Bootstrap v5 & v4 |   https://mdbootstrap.com/ |
-| News Kit  | An open source design system built by News UK, for everyone |    https://www.newskit.co.uk/ |
-| BBC GEL  | The BBCs Designsystem | https://www.bbc.co.uk/gel |
+| Gimp   | Basically an fre Photshop | https://www.gimp.org/saferules/ |
+| Photomechanis   |  Photo Metadata Management for IPTC Tags  |  https://home.camerabits.com/tour-photo-mechanic/ |
+| NDI Tools   |  Brings NDI to your Device  |  https://www.ndi.tv/tools/ |
+| OBS   |  Video Braodcastin Plattform with many tools and features  |  https://obsproject.com/de/download |
 
 
 ## Brand guidelines

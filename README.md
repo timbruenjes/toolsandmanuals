@@ -17,7 +17,7 @@ Nice tools and Wikis for your IT Infrastructure
 
 | **Toolname** |  **Description**  | **Link** |
 |:-----|:-----|:-----|
-| Windows GPOS | My own list of ADMX Templates | https://github.com/timbruenjes/toolsandmanuals/blob/main/windows-gpos.md |
+| Windows GPOS | My own list of ADMX Templates | [click here...](/windows-gpos.md) |
 
 ### Software
 

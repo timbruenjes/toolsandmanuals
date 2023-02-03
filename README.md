@@ -7,6 +7,7 @@ This Repo contains Tools and Manuals for basically anything related to Media, IT
   - [Web Development](#Web-Development)
   - [Design](#Design)
   - [Media](#Media)
+- [AI Tools](/ai-tools.md)
   
 ## IT Infrastructure
 

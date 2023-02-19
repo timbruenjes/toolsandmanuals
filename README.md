@@ -111,3 +111,4 @@ Great Icons, in some List Librarys you my need a license
 - [Iconfinder](https://www.iconfinder.com/)
 - [flaticon](https://www.flaticon.com/de/)
 - [fontawesome](https://fontawesome.com/icons)
+- [Material Design Icons (Community-based and -maintained, not by Google)](https://pictogrammers.com/library/mdi/)
